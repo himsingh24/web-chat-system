@@ -12,7 +12,7 @@ they will having the consultation session later. However, the real time communic
 web application will not be cover on the mobile site.
  
  
- Group member:
+ Group members:
     Himanshu kumar singh          RA2010047010137
     Pruthvi raj                   RA2010047010134  
     Rohan chauhan                 RA2010047010109
